@@ -1,4 +1,3 @@
-- salad
-- fruit
-- water
-- chicken
+- raw meat
+- nuts
+- tears
